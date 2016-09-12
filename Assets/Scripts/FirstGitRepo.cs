@@ -3,6 +3,8 @@ using System.Collections;
 
 public class FirstGitRepo : MonoBehaviour {
 
+	public bool cocao;
+
 	// Use this for initialization
 	void Start () {
 	
